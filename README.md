@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=monuk7735&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=monuk7735" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=monuk7735&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=monuk7735" />
 </a>
 
 ---
