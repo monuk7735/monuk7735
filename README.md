@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Find me as monuk7735 on almost every social website
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I might be sleeping now :P
-
+- ⚡ Fun fact #2: Bhola hu chutiya nhi
 ---
 
 ## Connect with me
