@@ -21,15 +21,7 @@ Here are some ideas to get you started:
 
 ![Monu's github stats](https://github-readme-stats.vercel.app/api?username=monuk7735&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/monuk7735/github-readme-stats)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=monuk7735" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=monuk7735" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735&layout=compact)](https://github.com/monuk7735/)
 
 ---
 
