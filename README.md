@@ -19,17 +19,25 @@ Here are some ideas to get you started:
 
 ---
 
+![Monu's github stats](https://github-readme-stats.vercel.app/api?username=monuk7735&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/monuk7735/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=monuk7735&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=monuk7735&repo=convoychat" />
+</a>
+
+---
+
 ## Connect with me
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
----
-
-![Monu's github stats](https://github-readme-stats.vercel.app/api?username=monuk7735&show_icons=true&theme=dracula)
-
-
 
 [twitter]: https://twitter.com/monuk7735
 [instagram]: https://instagram.com/monuk7735
