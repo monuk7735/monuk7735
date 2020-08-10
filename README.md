@@ -8,11 +8,11 @@
 Here are some ideas to get you started:
 -->
 ### About Me
-- 🔭 I’m currently working on a Top Secret Project... Pssshh... It's an Encryption Technique
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on a Top Secret Project... Pssshh... *SXQncyBhbiBFbmNyeXB0aW9uIFRlY2huaXF1ZQo=*
+<!-- - 🌱 I’m currently learning Flutter -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about something in Android >_<
+<!-- - 💬 Ask me about something in Android >_< -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I might be sleeping right now :P
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Monu's github stats](https://github-readme-stats.vercel.app/api?username=monuk7735&show_icons=true&theme=dracula&count_private=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735)](https://github.com/monuk7735/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735&layout=compact)](https://github.com/monuk7735/)
 
 ---
 
