@@ -7,21 +7,29 @@
 
 Here are some ideas to get you started:
 -->
+
 ### About Me
-- 🔭 I’m currently working on a Top Secret Project... Pssshh... *SXQncyBhbiBFbmNyeXB0aW9uIFRlY2huaXF1ZQo=*
-<!-- - 🌱 I’m currently learning Flutter -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about something in Android >_< -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
+
+- 🔭 I’m currently working on a Top Secret Project... Pssshh... _SXQncyBhbiBFbmNyeXB0aW9uIFRlY2huaXF1ZQo=_
+  <!-- - 🌱 I’m currently learning Flutter -->
+  <!-- - 👯 I’m looking to collaborate on ... -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 💬 Ask me about something in Android >_< -->
+  <!-- - 📫 How to reach me: ... -->
+  <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I might be sleeping right now :P
 
 ---
 
-![Monu's github stats](https://github-readme-stats.vercel.app/api?username=monuk7735&show_icons=true&theme=dracula&count_private=true)
+<img class="displayed" style="display: block; margin: 2px auto; padding: 2px 2px 1.4px 2px; background-color: black; border-radius: 7px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735&layout=compact" />
+
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735&layout=compact)](https://github.com/monuk7735/)
+
+<img class="displayed" style="display: block; margin: 5px auto; padding: 2px 2px 1.4px 2px; background-color: black; border-radius: 7px" src="https://github-readme-stats.vercel.app/api?username=monuk7735&show_icons=true&count_private=true" />
+
+<!-- ![Monu's github stats](https://github-readme-stats.vercel.app/api?username=monuk7735&show_icons=true&theme=dracula&count_private=true) -->
+<!-- <br> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735&layout=compact)](https://github.com/monuk7735/) -->
 
 ---
 
@@ -36,8 +44,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="monuk7735 on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [<img align="left" alt="monuk7735 on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 
 [facebook]: https://facebook.com/monuk7735
 [twitter]: https://twitter.com/monuk7735
