@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I might be sleeping right now :P
 
 ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/B45HBU0Y.png" alt="TryHackMe">
+
+<br>
 
 <img class="displayed" style="display: block; margin: 2px auto; padding: 2px 2px 1.4px 2px; background-color: black; border-radius: 7px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735&layout=compact" />
 
