@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I might be sleeping right now :P
 
 ---
-![Monu's github stats](https://tryhackme-badges.s3.amazonaws.com/B45HBU0Y.png)
+
+![Monu's THM Stats](https://tryhackme-badges.s3.amazonaws.com/B45HBU0Y.png)
 
 <br>
 
