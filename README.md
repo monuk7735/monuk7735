@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🔭 I’m currently working on a Top Secret Project... Pssshh... _SXQncyBhbiBFbmNyeXB0aW9uIFRlY2huaXF1ZQo=_
+- 🔭 I’m currently working on a Top Secret Project... Pssshh... _IVTDE32NJV2UYTDIGVMTC3TEIZFGUVCOONHFG2LHNVZVM4DP_
   <!-- - 🌱 I’m currently learning Flutter -->
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ---
 
-![Monu's THM Stats](https://tryhackme-badges.s3.amazonaws.com/B45HBU0Y.png)
+<!-- ![Monu's THM Stats](https://tryhackme-badges.s3.amazonaws.com/B45HBU0Y.png) -->
 
-<br>
+<!-- <br> -->
 
 <img class="displayed" style="display: block; margin: 2px auto; padding: 2px 2px 1.4px 2px; background-color: black; border-radius: 7px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735&layout=compact" />
 
