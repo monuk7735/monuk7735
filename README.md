@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- ![Monu's THM Stats](https://tryhackme-badges.s3.amazonaws.com/B45HBU0Y.png) -->
-
-<script src="https://tryhackme.com/badge/166592"></script>
+![Monu's THM Stats](https://tryhackme-badges.s3.amazonaws.com/B45HBU0Y.png)
 
 <!-- <br> -->
 
