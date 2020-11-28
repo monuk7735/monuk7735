@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <!-- ![Monu's THM Stats](https://tryhackme-badges.s3.amazonaws.com/B45HBU0Y.png) -->
 
+<script src="https://tryhackme.com/badge/166592"></script>
+
 <!-- <br> -->
 
 <img class="displayed" style="display: block; margin: 2px auto; padding: 2px 2px 1.4px 2px; background-color: black; border-radius: 7px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuk7735&layout=compact" />
