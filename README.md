@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🔭 I’m currently working on a Top Secret Project... Pssshh... _IVTDE32NJV2UYTDIGVMTC3TEIZFGUVCOONHFG2LHNVZVM4DP_
+  <!-- - 🔭 I’m currently working on a Top Secret Project... Pssshh... _IVTDE32NJV2UYTDIGVMTC3TEIZFGUVCOONHFG2LHNVZVM4DP_ -->
   <!-- - 🌱 I’m currently learning Flutter -->
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about something in Android >_< -->
-  <!-- - 📫 How to reach me: ... -->
+<!--   - 📫 How to reach me: ... -->
   <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I might be sleeping right now :P
 
