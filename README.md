@@ -15,9 +15,9 @@ Here are some ideas to get you started:
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about something in Android >_< -->
-<!--   - 📫 How to reach me: ... -->
+  <!--   - 📫 How to reach me: ... -->
   <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I might be sleeping right now :P
+  <!-- - ⚡ Fun fact: I might be sleeping right now :P -->
 
 ---
 
