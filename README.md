@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-### About Me
+<!-- ### About Me -->
 
   <!-- - 🔭 I’m currently working on a Top Secret Project... Pssshh... _IVTDE32NJV2UYTDIGVMTC3TEIZFGUVCOONHFG2LHNVZVM4DP_ -->
   <!-- - 🌱 I’m currently learning Flutter -->
